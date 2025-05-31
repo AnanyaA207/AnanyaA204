@@ -1,1 +1,2 @@
-https://i.imgur.com/u8HivgI.gif Hey! I’m Ananya
+![Hey! I’m Ananya](https://i.imgur.com/u8HivgI.gif)
+
