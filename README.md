@@ -8,6 +8,6 @@
 </p>
 
 <p align="center" style="font-size: 1.1em; margin-top: 10px;">
-  🔧 Focused on sharpening my skills, 🤝 collaborating on meaningful projects, and 🚀 preparing to take the next step into the tech world.  
-  🔍 Always curious, always learning. Let’s connect! 💬
+  🔍Focused on sharpening my skills, collaborating on meaningful projects, and preparing to take the next step into the tech world.  
+   Always curious, always learning. Let’s connect! 💬
 </p>
