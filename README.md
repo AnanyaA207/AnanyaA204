@@ -9,7 +9,6 @@
 
 <p align="center" style="font-size: 1.6em; margin-top: 12px;">
   🔍 I'm focused on sharpening my skills, collaborating on meaningful projects, and preparing to take the next step into the tech world.  
-       Let’s connect!! 💬
 </p>
 <p align="center" style="font-size: 1.6em; margin-top: 12px;">
        Let’s connect!! 💬
